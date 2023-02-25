@@ -1,0 +1,13 @@
+{
+    "workouts": [
+        {
+            "exercises": [],
+            "title": "core"
+        },
+        {
+            "exercises": [],
+            "title": "legs"
+        }
+    ],
+    "title": "My Workouts"
+}

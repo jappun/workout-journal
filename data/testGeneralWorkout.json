@@ -1,0 +1,15 @@
+{
+    "exercises": [
+        {
+            "reps": 10,
+            "sets": 3,
+            "name": "lunges"
+        },
+        {
+            "reps": 15,
+            "sets": 3,
+            "name": "squats"
+        }
+    ],
+    "title": "legs"
+}
