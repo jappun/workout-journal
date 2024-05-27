@@ -1,6 +1,6 @@
 # Workout Journal
 
-This is a project I made for CPSC 210 at UBC.  
+This is a project I made for CPSC 210 at UBC to strengthen my understanding of Object-Oriented Programming.
 
 ### User Stories
 
